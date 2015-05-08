@@ -1,2 +1,2 @@
 # qluster
-Clustering projects using Nick H's Qluster software.
+Clustering projects using Nick H's `qluster` software.
